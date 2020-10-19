@@ -1,0 +1,3 @@
+C:/Users/jbji/CLionProjects/2020-ds-1-josephus-lzl/cmake-build-debug/CMakeFiles/2020_ds_1_josephus_lzl.dir
+C:/Users/jbji/CLionProjects/2020-ds-1-josephus-lzl/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jbji/CLionProjects/2020-ds-1-josephus-lzl/cmake-build-debug/CMakeFiles/rebuild_cache.dir

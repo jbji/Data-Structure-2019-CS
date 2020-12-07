@@ -1,0 +1,3 @@
+C:/Users/jbji/CLionProjects/2020ds-8-expressionCalc/cmake-build-debug/CMakeFiles/2020ds_8_expressionCalc.dir
+C:/Users/jbji/CLionProjects/2020ds-8-expressionCalc/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jbji/CLionProjects/2020ds-8-expressionCalc/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Volumes/Data/Library/Documents/CLionProjects/2020ds-15-CreationOfBiTree_REload/main.cpp
+iostream
+-
+string
+-
+queue
+-
+

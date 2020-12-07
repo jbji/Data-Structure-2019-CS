@@ -1,0 +1,4 @@
+abc=3
+ab=2^(abc-1)^(5-abc)
+? ab
+end

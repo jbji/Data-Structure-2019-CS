@@ -1,0 +1,7 @@
+abc=10
+def=8
+c=abc+def
+abc=abc+5-c*2
+? c
+? abc
+end

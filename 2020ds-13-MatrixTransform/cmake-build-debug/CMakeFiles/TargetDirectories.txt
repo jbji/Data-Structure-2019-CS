@@ -1,0 +1,3 @@
+C:/Users/jbji/CLionProjects/2020ds-13-MatrixTransform/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/jbji/CLionProjects/2020ds-13-MatrixTransform/cmake-build-debug/CMakeFiles/2020ds_13_MatrixTransform.dir
+C:/Users/jbji/CLionProjects/2020ds-13-MatrixTransform/cmake-build-debug/CMakeFiles/edit_cache.dir

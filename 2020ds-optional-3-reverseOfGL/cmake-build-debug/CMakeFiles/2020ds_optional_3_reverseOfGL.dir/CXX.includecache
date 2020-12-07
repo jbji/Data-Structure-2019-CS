@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Volumes/Data/Library/Documents/CLionProjects/2020ds-optional-3-reverseOfGL/main.cpp
+stdio.h
+/Volumes/Data/Library/Documents/CLionProjects/2020ds-optional-3-reverseOfGL/stdio.h
+string.h
+/Volumes/Data/Library/Documents/CLionProjects/2020ds-optional-3-reverseOfGL/string.h
+stdlib.h
+/Volumes/Data/Library/Documents/CLionProjects/2020ds-optional-3-reverseOfGL/stdlib.h
+

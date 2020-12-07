@@ -1,0 +1,3 @@
+C:/Users/jbji/CLionProjects/2020ds-14-MatrixMultiply-C-Version/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/jbji/CLionProjects/2020ds-14-MatrixMultiply-C-Version/cmake-build-debug/CMakeFiles/2020ds_14_MatrixMultiply_C_Version.dir
+C:/Users/jbji/CLionProjects/2020ds-14-MatrixMultiply-C-Version/cmake-build-debug/CMakeFiles/edit_cache.dir

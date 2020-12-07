@@ -1,0 +1,1889 @@
+orderid: 0001
+orderid: 0002
+orderid: 0003
+orderid: 0004
+orderid: 0005
+orderid: 0006
+orderid: 0007
+orderid: 0008
+orderid: 0009
+orderid: 0010
+orderid: 0011
+orderid: 0012
+orderid: 0013
+orderid: 0014
+orderid: 0015
+orderid: 0016
+orderid: 0017
+orderid: 0018
+orderid: 0019
+orderid: 0020
+orderid: 0021
+orderid: 0022
+orderid: 0023
+orderid: 0024
+orderid: 0025
+orderid: 0026
+orderid: 0027
+orderid: 0028
+orderid: 0029
+orderid: 0030
+orderid: 0031
+orderid: 0032
+orderid: 0033
+orderid: 0034
+orderid: 0035
+orderid: 0036
+orderid: 0037
+orderid: 0038
+orderid: 0039
+orderid: 0040
+orderid: 0041
+orderid: 0042
+orderid: 0043
+orderid: 0044
+orderid: 0045
+orderid: 0046
+orderid: 0047
+orderid: 0048
+orderid: 0049
+orderid: 0050
+orderid: 0051
+orderid: 0052
+orderid: 0053
+orderid: 0054
+orderid: 0055
+orderid: 0056
+orderid: 0057
+orderid: 0058
+orderid: 0059
+orderid: 0060
+orderid: 0061
+orderid: 0062
+orderid: 0063
+orderid: 0064
+orderid: 0065
+orderid: 0066
+orderid: 0067
+orderid: 0068
+orderid: 0069
+orderid: 0070
+orderid: 0071
+orderid: 0072
+orderid: 0073
+orderid: 0074
+orderid: 0075
+orderid: 0076
+orderid: 0077
+orderid: 0078
+orderid: 0079
+orderid: 0080
+orderid: 0081
+orderid: 0082
+orderid: 0083
+orderid: 0084
+orderid: 0085
+orderid: 0086
+orderid: 0087
+orderid: 0088
+orderid: 0089
+orderid: 0090
+orderid: 0091
+orderid: 0092
+deal--price:  50.5  quantity: 769  buyorder:0092  sellorder:0001
+orderid: 0093
+orderid: 0094
+orderid: 0095
+deal--price:  27.5  quantity: 594  buyorder:0095  sellorder:0004
+orderid: 0096
+orderid: 0097
+orderid: 0098
+orderid: 0099
+deal--price:  69.5  quantity: 746  buyorder:0099  sellorder:0008
+orderid: 0100
+orderid: 0101
+orderid: 0102
+orderid: 0103
+orderid: 0104
+orderid: 0105
+orderid: 0106
+orderid: 0107
+deal--price:  36.5  quantity: 588  buyorder:0107  sellorder:0016
+orderid: 0108
+orderid: 0109
+orderid: 0110
+deal--price:  14.0  quantity: 644  buyorder:0110  sellorder:0019
+orderid: 0111
+deal--price:  28.5  quantity: 508  sellorder:0111  buyorder:0020
+orderid: 0112
+orderid: 0113
+deal--price:  91.0  quantity: 469  buyorder:0113  sellorder:0022
+orderid: 0114
+orderid: 0115
+deal--price:  30.5  quantity: 162  sellorder:0115  buyorder:0055
+orderid: 0116
+orderid: 0117
+orderid: 0118
+deal--price:  47.0  quantity: 485  sellorder:0118  buyorder:0027
+orderid: 0119
+orderid: 0120
+orderid: 0121
+orderid: 0122
+deal--price:  22.5  quantity: 406  buyorder:0122  sellorder:0031
+orderid: 0123
+orderid: 0124
+orderid: 0125
+orderid: 0126
+orderid: 0127
+orderid: 0128
+deal--price:  77.0  quantity: 287  buyorder:0128  sellorder:0037
+orderid: 0129
+orderid: 0130
+orderid: 0131
+orderid: 0132
+deal--price:  52.5  quantity: 440  sellorder:0132  buyorder:0041
+orderid: 0133
+deal--price:  83.5  quantity: 304  buyorder:0133  sellorder:0042
+orderid: 0134
+orderid: 0135
+orderid: 0136
+deal--price:  60.5  quantity: 361  buyorder:0136  sellorder:0045
+orderid: 0137
+orderid: 0138
+orderid: 0139
+orderid: 0140
+orderid: 0141
+orderid: 0142
+orderid: 0143
+orderid: 0144
+orderid: 0145
+orderid: 0146
+orderid: 0147
+orderid: 0148
+deal--price:  53.5  quantity: 123  buyorder:0148  sellorder:0057
+orderid: 0149
+orderid: 0150
+orderid: 0151
+deal--price:  30.5  quantity: 179  buyorder:0151  sellorder:0060
+orderid: 0152
+deal--price:  45.0  quantity: 275  sellorder:0152  buyorder:0061
+orderid: 0153
+orderid: 0154
+orderid: 0155
+orderid: 0156
+orderid: 0157
+orderid: 0158
+orderid: 0159
+orderid: 0160
+orderid: 0161
+orderid: 0162
+deal--price:  75.0  quantity:  77  buyorder:0162  sellorder:0070
+deal--price:  79.0  quantity: 104  buyorder:0162  sellorder:0010
+orderid: 0163
+deal--price:  39.5  quantity: 173  buyorder:0163  sellorder:0071
+orderid: 0164
+orderid: 0165
+deal--price:  56.0  quantity: 237  buyorder:0165  sellorder:0013
+orderid: 0166
+deal--price:  20.0  quantity: 101  buyorder:0166  sellorder:0014
+orderid: 0167
+orderid: 0168
+orderid: 0169
+orderid: 0170
+orderid: 0171
+deal--price:   6.5  quantity:  15  buyorder:0171  sellorder:0079
+orderid: 0172
+orderid: 0173
+orderid: 0174
+deal--price:  84.0  quantity:  71  buyorder:0174  sellorder:0082
+orderid: 0175
+orderid: 0176
+orderid: 0177
+deal--price:  61.0  quantity: 896  buyorder:0177  sellorder:0085
+deal--price:  65.0  quantity: 103  buyorder:0177  sellorder:0025
+orderid: 0178
+orderid: 0179
+orderid: 0180
+deal--price:  42.0  quantity:  56  buyorder:0180  sellorder:0028
+orderid: 0181
+orderid: 0182
+orderid: 0183
+orderid: 0184
+orderid: 0185
+orderid: 0186
+deal--price:  92.5  quantity: 833  buyorder:0186  sellorder:0094
+orderid: 0187
+orderid: 0188
+deal--price:  25.0  quantity: 423  buyorder:0188  sellorder:0036
+orderid: 0189
+deal--price:  70.0  quantity: 890  buyorder:0189  sellorder:0097
+orderid: 0190
+orderid: 0191
+orderid: 0192
+deal--price:  47.0  quantity:  50  buyorder:0192  sellorder:0100
+orderid: 0193
+deal--price:  45.5  quantity: 810  sellorder:0193  buyorder:0101
+orderid: 0194
+orderid: 0195
+deal--price:  28.0  quantity: 400  buyorder:0195  sellorder:0043
+orderid: 0196
+orderid: 0197
+deal--price:  53.5  quantity: 731  buyorder:0197  sellorder:0105
+orderid: 0198
+deal--price:   5.0  quantity: 225  buyorder:0198  sellorder:0046
+orderid: 0199
+orderid: 0200
+deal--price:  30.5  quantity: 788  buyorder:0200  sellorder:0108
+deal--price:  34.0  quantity: 103  buyorder:0200  sellorder:0048
+orderid: 0201
+deal--price:  79.0  quantity: 652  buyorder:0201  sellorder:0109
+orderid: 0202
+orderid: 0203
+deal--price:  11.0  quantity: 242  buyorder:0203  sellorder:0051
+orderid: 0204
+orderid: 0205
+deal--price:  54.5  quantity: 103  sellorder:0205  buyorder:0113
+orderid: 0206
+deal--price:  72.5  quantity: 298  buyorder:0206  sellorder:0054
+orderid: 0207
+orderid: 0208
+orderid: 0209
+orderid: 0210
+orderid: 0211
+orderid: 0212
+deal--price:  23.5  quantity: 550  buyorder:0212  sellorder:0120
+orderid: 0213
+orderid: 0214
+orderid: 0215
+orderid: 0216
+orderid: 0217
+deal--price:  23.5  quantity: 300  sellorder:0217  buyorder:0156
+orderid: 0218
+orderid: 0219
+orderid: 0220
+orderid: 0221
+deal--price:  58.5  quantity: 117  buyorder:0221  sellorder:0068
+orderid: 0222
+orderid: 0223
+orderid: 0224
+orderid: 0225
+deal--price:  50.0  quantity:  37  sellorder:0225  buyorder:0072
+orderid: 0226
+deal--price:  49.0  quantity: 134  buyorder:0226  sellorder:0073
+orderid: 0227
+orderid: 0228
+orderid: 0229
+deal--price:  26.0  quantity: 664  buyorder:0229  sellorder:0076
+orderid: 0230
+orderid: 0231
+orderid: 0232
+orderid: 0233
+deal--price:  67.5  quantity: 585  buyorder:0233  sellorder:0080
+orderid: 0234
+orderid: 0235
+deal--price:  76.5  quantity: 442  buyorder:0235  sellorder:0143
+orderid: 0236
+deal--price:  45.0  quantity: 641  buyorder:0236  sellorder:0083
+orderid: 0237
+deal--price:  55.5  quantity: 402  sellorder:0237  buyorder:0145
+orderid: 0238
+deal--price:  54.0  quantity: 266  buyorder:0238  sellorder:0146
+orderid: 0239
+deal--price:  45.5  quantity: 258  sellorder:0239  buyorder:0056
+orderid: 0240
+orderid: 0241
+deal--price:  31.0  quantity: 323  buyorder:0241  sellorder:0149
+deal--price:  35.0  quantity: 103  buyorder:0241  sellorder:0088
+orderid: 0242
+orderid: 0243
+orderid: 0244
+deal--price:  12.0  quantity: 483  buyorder:0244  sellorder:0091
+orderid: 0245
+orderid: 0246
+orderid: 0247
+orderid: 0248
+orderid: 0249
+orderid: 0250
+deal--price:  62.5  quantity: 260  buyorder:0250  sellorder:0158
+orderid: 0251
+orderid: 0252
+orderid: 0253
+deal--price:  40.0  quantity: 317  buyorder:0253  sellorder:0161
+orderid: 0254
+orderid: 0255
+deal--price:  49.5  quantity: 381  buyorder:0255  sellorder:0011
+orderid: 0256
+deal--price:  17.0  quantity: 141  buyorder:0256  sellorder:0164
+deal--price:  21.0  quantity: 104  buyorder:0256  sellorder:0103
+orderid: 0257
+orderid: 0258
+orderid: 0259
+orderid: 0260
+orderid: 0261
+orderid: 0262
+orderid: 0263
+orderid: 0264
+deal--price:   4.0  quantity: 104  buyorder:0264  sellorder:0111
+orderid: 0265
+deal--price:  49.0  quantity:  79  buyorder:0265  sellorder:0173
+orderid: 0266
+orderid: 0267
+deal--price:  65.0  quantity: 143  buyorder:0267  sellorder:0114
+orderid: 0268
+deal--price:  26.0  quantity: 135  buyorder:0268  sellorder:0176
+orderid: 0269
+orderid: 0270
+deal--price:  42.5  quantity: 199  buyorder:0270  sellorder:0117
+orderid: 0271
+deal--price:   7.0  quantity: 104  buyorder:0271  sellorder:0118
+orderid: 0272
+orderid: 0273
+orderid: 0274
+orderid: 0275
+orderid: 0276
+orderid: 0277
+orderid: 0278
+orderid: 0279
+deal--price:  70.5  quantity:  33  buyorder:0279  sellorder:0187
+deal--price:  74.0  quantity: 104  buyorder:0279  sellorder:0126
+orderid: 0280
+orderid: 0281
+orderid: 0282
+deal--price:  51.0  quantity: 193  buyorder:0282  sellorder:0129
+orderid: 0283
+orderid: 0284
+orderid: 0285
+deal--price:  28.5  quantity:  18  buyorder:0285  sellorder:0132
+orderid: 0286
+orderid: 0287
+orderid: 0288
+orderid: 0289
+orderid: 0290
+deal--price:  19.0  quantity:  35  buyorder:0290  sellorder:0137
+orderid: 0291
+orderid: 0292
+orderid: 0293
+deal--price:  89.0  quantity:  91  buyorder:0293  sellorder:0049
+orderid: 0294
+deal--price:  56.5  quantity: 852  buyorder:0294  sellorder:0202
+deal--price:  60.0  quantity: 103  buyorder:0294  sellorder:0141
+orderid: 0295
+orderid: 0296
+orderid: 0297
+deal--price:  37.5  quantity:  12  buyorder:0297  sellorder:0144
+orderid: 0298
+deal--price:  48.5  quantity: 474  sellorder:0298  buyorder:0206
+orderid: 0299
+deal--price:  40.0  quantity: 603  buyorder:0299  sellorder:0115
+deal--price:  46.5  quantity: 369  buyorder:0299  sellorder:0207
+orderid: 0300
+deal--price:  21.5  quantity: 208  buyorder:0300  sellorder:0239
+orderid: 0301
+orderid: 0302
+deal--price:  24.0  quantity:  29  buyorder:0302  sellorder:0210
+orderid: 0303
+deal--price:  72.5  quantity: 789  buyorder:0303  sellorder:0211
+orderid: 0304
+orderid: 0305
+deal--price:   5.0  quantity: 104  buyorder:0305  sellorder:0152
+orderid: 0306
+orderid: 0307
+orderid: 0308
+deal--price:  82.0  quantity: 204  buyorder:0308  sellorder:0155
+orderid: 0309
+orderid: 0310
+orderid: 0311
+orderid: 0312
+deal--price:  51.0  quantity:  21  sellorder:0312  buyorder:0067
+orderid: 0313
+orderid: 0314
+deal--price:  32.5  quantity: 687  buyorder:0314  sellorder:0222
+orderid: 0315
+orderid: 0316
+orderid: 0317
+deal--price:  10.0  quantity: 707  buyorder:0317  sellorder:0225
+orderid: 0318
+orderid: 0319
+orderid: 0320
+deal--price:  87.5  quantity: 568  buyorder:0320  sellorder:0228
+deal--price:  91.0  quantity: 104  buyorder:0320  sellorder:0167
+orderid: 0321
+orderid: 0322
+deal--price:  26.5  quantity: 262  sellorder:0322  buyorder:0261
+orderid: 0323
+deal--price:  68.0  quantity: 254  buyorder:0323  sellorder:0170
+orderid: 0324
+orderid: 0325
+orderid: 0326
+orderid: 0327
+orderid: 0328
+deal--price:  51.5  quantity: 294  buyorder:0328  sellorder:0083
+deal--price:  74.0  quantity:  39  buyorder:0328  sellorder:0175
+orderid: 0329
+deal--price:  19.0  quantity: 104  buyorder:0329  sellorder:0237
+orderid: 0330
+orderid: 0331
+deal--price:  35.0  quantity:  96  buyorder:0331  sellorder:0178
+orderid: 0332
+orderid: 0333
+orderid: 0334
+orderid: 0335
+deal--price:  73.5  quantity: 387  buyorder:0335  sellorder:0243
+deal--price:  77.0  quantity:  16  buyorder:0335  sellorder:0182
+orderid: 0336
+orderid: 0337
+orderid: 0338
+deal--price:  54.0  quantity:  73  buyorder:0338  sellorder:0185
+orderid: 0339
+deal--price:  52.5  quantity: 104  sellorder:0339  buyorder:0186
+deal--price:  49.0  quantity: 539  sellorder:0339  buyorder:0247
+orderid: 0340
+deal--price:  63.5  quantity: 404  buyorder:0340  sellorder:0248
+orderid: 0341
+orderid: 0342
+orderid: 0343
+deal--price:  40.5  quantity: 460  buyorder:0343  sellorder:0251
+deal--price:  44.0  quantity: 104  buyorder:0343  sellorder:0190
+orderid: 0344
+deal--price:  52.0  quantity: 104  sellorder:0344  buyorder:0099
+deal--price:  48.5  quantity: 220  sellorder:0344  buyorder:0160
+orderid: 0345
+orderid: 0346
+deal--price:  21.0  quantity: 104  buyorder:0346  sellorder:0193
+orderid: 0347
+orderid: 0348
+orderid: 0349
+orderid: 0350
+orderid: 0351
+deal--price:  48.0  quantity: 405  sellorder:0351  buyorder:0015
+orderid: 0352
+deal--price:  76.0  quantity: 501  buyorder:0352  sellorder:0199
+orderid: 0353
+orderid: 0354
+orderid: 0355
+deal--price:  49.5  quantity: 222  buyorder:0355  sellorder:0263
+orderid: 0356
+orderid: 0357
+deal--price:  59.0  quantity: 286  buyorder:0357  sellorder:0112
+orderid: 0358
+deal--price:  26.5  quantity: 279  buyorder:0358  sellorder:0266
+deal--price:  30.0  quantity: 103  buyorder:0358  sellorder:0205
+orderid: 0359
+orderid: 0360
+deal--price:  43.0  quantity: 343  buyorder:0360  sellorder:0207
+orderid: 0361
+orderid: 0362
+orderid: 0363
+orderid: 0364
+orderid: 0365
+orderid: 0366
+orderid: 0367
+deal--price:  42.5  quantity: 216  buyorder:0367  sellorder:0275
+orderid: 0368
+orderid: 0369
+deal--price:  71.0  quantity: 177  buyorder:0369  sellorder:0277
+deal--price:  75.0  quantity: 103  buyorder:0369  sellorder:0216
+orderid: 0370
+deal--price:  19.5  quantity:  41  buyorder:0370  sellorder:0278
+orderid: 0371
+orderid: 0372
+deal--price:  52.0  quantity: 337  buyorder:0372  sellorder:0219
+orderid: 0373
+orderid: 0374
+orderid: 0375
+orderid: 0376
+orderid: 0377
+orderid: 0378
+orderid: 0379
+orderid: 0380
+orderid: 0381
+deal--price:  80.0  quantity: 274  buyorder:0381  sellorder:0289
+orderid: 0382
+orderid: 0383
+orderid: 0384
+deal--price:  57.5  quantity:  99  buyorder:0384  sellorder:0292
+orderid: 0385
+orderid: 0386
+orderid: 0387
+deal--price:  38.0  quantity: 155  buyorder:0387  sellorder:0234
+orderid: 0388
+orderid: 0389
+orderid: 0390
+orderid: 0391
+orderid: 0392
+orderid: 0393
+deal--price:  89.0  quantity:  36  buyorder:0393  sellorder:0301
+orderid: 0394
+orderid: 0395
+orderid: 0396
+deal--price:  66.0  quantity:  93  buyorder:0396  sellorder:0304
+orderid: 0397
+orderid: 0398
+orderid: 0399
+deal--price:  43.5  quantity: 814  buyorder:0399  sellorder:0307
+deal--price:  47.0  quantity: 103  buyorder:0399  sellorder:0246
+orderid: 0400
+orderid: 0401
+orderid: 0402
+deal--price:  24.0  quantity: 500  buyorder:0402  sellorder:0249
+orderid: 0403
+orderid: 0404
+deal--price:  33.5  quantity: 810  buyorder:0404  sellorder:0312
+orderid: 0405
+orderid: 0406
+orderid: 0407
+orderid: 0408
+orderid: 0409
+orderid: 0410
+orderid: 0411
+orderid: 0412
+deal--price:  40.5  quantity:  94  sellorder:0412  buyorder:0075
+orderid: 0413
+deal--price:  69.0  quantity: 398  buyorder:0413  sellorder:0260
+orderid: 0414
+orderid: 0415
+orderid: 0416
+deal--price:  42.5  quantity: 593  buyorder:0416  sellorder:0324
+orderid: 0417
+orderid: 0418
+orderid: 0419
+orderid: 0420
+orderid: 0421
+orderid: 0422
+orderid: 0423
+orderid: 0424
+deal--price:  19.5  quantity: 399  sellorder:0424  buyorder:0363
+orderid: 0425
+deal--price:  68.0  quantity: 526  buyorder:0425  sellorder:0028
+deal--price:  77.5  quantity: 160  buyorder:0425  sellorder:0272
+orderid: 0426
+deal--price:  66.0  quantity: 446  sellorder:0426  buyorder:0029
+deal--price:  62.5  quantity: 284  sellorder:0426  buyorder:0089
+orderid: 0427
+orderid: 0428
+orderid: 0429
+deal--price:  43.0  quantity: 502  sellorder:0429  buyorder:0032
+orderid: 0430
+orderid: 0431
+orderid: 0432
+orderid: 0433
+deal--price:  41.0  quantity: 603  buyorder:0433  sellorder:0341
+deal--price:  45.0  quantity: 104  buyorder:0433  sellorder:0280
+orderid: 0434
+deal--price:  89.5  quantity: 468  buyorder:0434  sellorder:0342
+orderid: 0435
+orderid: 0436
+deal--price:  22.0  quantity:  58  buyorder:0436  sellorder:0283
+orderid: 0437
+deal--price:  56.5  quantity: 628  buyorder:0437  sellorder:0100
+orderid: 0438
+orderid: 0439
+orderid: 0440
+deal--price:  47.5  quantity: 684  buyorder:0440  sellorder:0287
+orderid: 0441
+deal--price:  52.0  quantity: 264  sellorder:0441  buyorder:0044
+deal--price:  48.5  quantity: 285  sellorder:0441  buyorder:0104
+orderid: 0442
+deal--price:  72.5  quantity: 541  buyorder:0442  sellorder:0350
+orderid: 0443
+orderid: 0444
+deal--price:  29.5  quantity: 321  sellorder:0444  buyorder:0047
+orderid: 0445
+deal--price:  44.0  quantity:  82  buyorder:0445  sellorder:0048
+deal--price:  50.0  quantity: 366  buyorder:0445  sellorder:0353
+orderid: 0446
+deal--price:  45.5  quantity: 103  sellorder:0446  buyorder:0201
+deal--price:  41.5  quantity: 358  sellorder:0446  buyorder:0262
+deal--price:  32.0  quantity: 104  sellorder:0446  buyorder:0018
+orderid: 0447
+orderid: 0448
+deal--price:  27.5  quantity: 422  buyorder:0448  sellorder:0356
+deal--price:  31.0  quantity:  52  buyorder:0448  sellorder:0295
+orderid: 0449
+orderid: 0450
+orderid: 0451
+deal--price:   8.0  quantity: 402  buyorder:0451  sellorder:0298
+orderid: 0452
+orderid: 0453
+deal--price:  57.5  quantity: 543  sellorder:0453  buyorder:0116
+orderid: 0454
+deal--price:  85.0  quantity: 407  buyorder:0454  sellorder:0301
+orderid: 0455
+orderid: 0456
+deal--price:  48.0  quantity: 104  sellorder:0456  buyorder:0303
+deal--price:  44.5  quantity: 263  sellorder:0456  buyorder:0364
+orderid: 0457
+deal--price:  59.0  quantity: 360  buyorder:0457  sellorder:0365
+orderid: 0458
+orderid: 0459
+deal--price:  68.5  quantity: 424  buyorder:0459  sellorder:0214
+orderid: 0460
+deal--price:  36.0  quantity: 184  buyorder:0460  sellorder:0368
+orderid: 0461
+orderid: 0462
+deal--price:  46.0  quantity: 370  buyorder:0462  sellorder:0217
+deal--price:  52.5  quantity: 110  buyorder:0462  sellorder:0309
+orderid: 0463
+deal--price:  13.5  quantity: 241  buyorder:0463  sellorder:0371
+deal--price:  17.0  quantity: 103  buyorder:0463  sellorder:0310
+orderid: 0464
+orderid: 0465
+orderid: 0466
+deal--price:  94.0  quantity: 401  buyorder:0466  sellorder:0313
+orderid: 0467
+orderid: 0468
+orderid: 0469
+deal--price:  71.0  quantity: 457  buyorder:0469  sellorder:0316
+orderid: 0470
+orderid: 0471
+orderid: 0472
+deal--price:  45.0  quantity: 178  buyorder:0472  sellorder:0380
+orderid: 0473
+orderid: 0474
+deal--price:  51.5  quantity: 242  buyorder:0474  sellorder:0076
+orderid: 0475
+deal--price:  22.0  quantity: 235  buyorder:0475  sellorder:0383
+orderid: 0476
+orderid: 0477
+orderid: 0478
+orderid: 0479
+orderid: 0480
+orderid: 0481
+orderid: 0482
+orderid: 0483
+orderid: 0484
+orderid: 0485
+deal--price:  46.0  quantity: 140  sellorder:0485  buyorder:0087
+orderid: 0486
+deal--price:  60.5  quantity: 236  buyorder:0486  sellorder:0088
+orderid: 0487
+orderid: 0488
+deal--price:  89.5  quantity: 197  sellorder:0488  buyorder:0427
+orderid: 0489
+deal--price:  22.0  quantity:  61  buyorder:0489  sellorder:0091
+orderid: 0490
+deal--price:  36.0  quantity: 104  sellorder:0490  buyorder:0092
+deal--price:  32.5  quantity:  53  sellorder:0490  buyorder:0153
+orderid: 0491
+orderid: 0492
+orderid: 0493
+orderid: 0494
+orderid: 0495
+deal--price:  82.5  quantity:  70  buyorder:0495  sellorder:0403
+orderid: 0496
+orderid: 0497
+deal--price:  15.0  quantity: 104  buyorder:0497  sellorder:0344
+orderid: 0498
+deal--price:  59.5  quantity: 895  buyorder:0498  sellorder:0406
+orderid: 0499
+orderid: 0500
+deal--price:  59.5  quantity: 190  buyorder:0500  sellorder:0011
+deal--price:  82.0  quantity: 675  buyorder:0500  sellorder:0102
+deal--price:  92.0  quantity:  94  buyorder:0500  sellorder:0347
+orderid: 0501
+deal--price:  30.5  quantity:  55  buyorder:0501  sellorder:0103
+orderid: 0502
+orderid: 0503
+orderid: 0504
+orderid: 0505
+deal--price:  44.5  quantity: 474  sellorder:0505  buyorder:0413
+deal--price:  22.0  quantity: 103  sellorder:0505  buyorder:0107
+deal--price:  18.5  quantity:  62  sellorder:0505  buyorder:0168
+orderid: 0506
+deal--price:  36.0  quantity:  72  buyorder:0506  sellorder:0322
+orderid: 0507
+deal--price:  95.0  quantity: 462  buyorder:0507  sellorder:0354
+orderid: 0508
+orderid: 0509
+deal--price:  20.0  quantity: 793  buyorder:0509  sellorder:0417
+orderid: 0510
+orderid: 0511
+orderid: 0512
+orderid: 0513
+orderid: 0514
+deal--price:  54.0  quantity:  86  sellorder:0514  buyorder:0116
+orderid: 0515
+deal--price:  52.0  quantity:   9  buyorder:0515  sellorder:0117
+orderid: 0516
+orderid: 0517
+deal--price:  53.5  quantity: 180  sellorder:0517  buyorder:0425
+orderid: 0518
+orderid: 0519
+deal--price:  44.0  quantity: 646  sellorder:0519  buyorder:0121
+deal--price:  37.5  quantity: 284  sellorder:0519  buyorder:0030
+orderid: 0520
+orderid: 0521
+deal--price:  29.0  quantity: 285  buyorder:0521  sellorder:0429
+orderid: 0522
+orderid: 0523
+orderid: 0524
+orderid: 0525
+orderid: 0526
+deal--price:  63.0  quantity: 336  sellorder:0526  buyorder:0128
+orderid: 0527
+deal--price:  61.0  quantity: 294  buyorder:0527  sellorder:0129
+deal--price:  83.5  quantity: 477  buyorder:0527  sellorder:0435
+orderid: 0528
+orderid: 0529
+orderid: 0530
+deal--price:  38.0  quantity:  86  buyorder:0530  sellorder:0132
+deal--price:  64.0  quantity: 122  buyorder:0530  sellorder:0377
+orderid: 0531
+deal--price:  53.0  quantity: 104  sellorder:0531  buyorder:0133
+deal--price:  49.5  quantity:  10  sellorder:0531  buyorder:0194
+orderid: 0532
+deal--price:  70.0  quantity: 294  buyorder:0532  sellorder:0287
+orderid: 0533
+orderid: 0534
+orderid: 0535
+deal--price:  44.5  quantity: 526  buyorder:0535  sellorder:0137
+deal--price:  50.5  quantity: 319  buyorder:0535  sellorder:0443
+orderid: 0536
+deal--price:  15.0  quantity: 284  buyorder:0536  sellorder:0444
+orderid: 0537
+orderid: 0538
+deal--price:  31.0  quantity: 195  buyorder:0538  sellorder:0385
+orderid: 0539
+deal--price:  70.0  quantity: 378  buyorder:0539  sellorder:0141
+deal--price:  92.5  quantity: 387  buyorder:0539  sellorder:0447
+orderid: 0540
+orderid: 0541
+orderid: 0542
+deal--price:  47.0  quantity: 294  buyorder:0542  sellorder:0144
+deal--price:  69.5  quantity: 296  buyorder:0542  sellorder:0450
+orderid: 0543
+orderid: 0544
+orderid: 0545
+orderid: 0546
+deal--price:  39.0  quantity: 335  sellorder:0546  buyorder:0148
+deal--price:  35.5  quantity: 408  sellorder:0546  buyorder:0209
+orderid: 0547
+deal--price:  49.5  quantity: 607  buyorder:0547  sellorder:0210
+orderid: 0548
+orderid: 0549
+orderid: 0550
+deal--price:  36.5  quantity: 560  buyorder:0550  sellorder:0458
+deal--price:  40.0  quantity: 103  buyorder:0550  sellorder:0397
+orderid: 0551
+orderid: 0552
+orderid: 0553
+orderid: 0554
+orderid: 0555
+orderid: 0556
+orderid: 0557
+orderid: 0558
+deal--price:  44.5  quantity: 474  sellorder:0558  buyorder:0221
+orderid: 0559
+deal--price:  52.5  quantity: 265  buyorder:0559  sellorder:0467
+orderid: 0560
+orderid: 0561
+deal--price:  78.0  quantity: 294  buyorder:0561  sellorder:0316
+deal--price:  85.0  quantity: 267  buyorder:0561  sellorder:0408
+orderid: 0562
+deal--price:  29.5  quantity: 322  buyorder:0562  sellorder:0470
+orderid: 0563
+orderid: 0564
+deal--price:  33.0  quantity: 386  buyorder:0564  sellorder:0014
+orderid: 0565
+deal--price:   6.5  quantity: 378  buyorder:0565  sellorder:0473
+deal--price:  10.0  quantity: 104  buyorder:0565  sellorder:0412
+orderid: 0566
+orderid: 0567
+deal--price:  32.5  quantity: 298  buyorder:0567  sellorder:0322
+deal--price:  39.0  quantity: 144  buyorder:0567  sellorder:0414
+orderid: 0568
+deal--price:  88.0  quantity: 538  buyorder:0568  sellorder:0415
+orderid: 0569
+orderid: 0570
+deal--price:  12.5  quantity: 163  buyorder:0570  sellorder:0478
+orderid: 0571
+deal--price:  65.0  quantity: 363  buyorder:0571  sellorder:0418
+orderid: 0572
+deal--price:  69.5  quantity: 104  sellorder:0572  buyorder:0174
+orderid: 0573
+deal--price:  90.0  quantity: 219  buyorder:0573  sellorder:0481
+orderid: 0574
+deal--price:  38.5  quantity: 316  buyorder:0574  sellorder:0482
+orderid: 0575
+orderid: 0576
+deal--price:  67.5  quantity: 276  buyorder:0576  sellorder:0484
+deal--price:  71.0  quantity: 104  buyorder:0576  sellorder:0423
+orderid: 0577
+orderid: 0578
+orderid: 0579
+orderid: 0580
+deal--price:  46.5  quantity: 300  sellorder:0580  buyorder:0427
+orderid: 0581
+orderid: 0582
+orderid: 0583
+orderid: 0584
+deal--price:  65.0  quantity: 221  sellorder:0584  buyorder:0003
+orderid: 0585
+orderid: 0586
+orderid: 0587
+deal--price:  65.0  quantity: 103  sellorder:0587  buyorder:0434
+deal--price:  55.5  quantity: 103  sellorder:0587  buyorder:0189
+orderid: 0588
+deal--price:  54.0  quantity: 142  buyorder:0588  sellorder:0190
+orderid: 0589
+orderid: 0590
+orderid: 0591
+deal--price:  53.5  quantity:  95  buyorder:0591  sellorder:0499
+deal--price:  57.0  quantity: 103  buyorder:0591  sellorder:0438
+orderid: 0592
+orderid: 0593
+deal--price:  92.5  quantity: 159  sellorder:0593  buyorder:0532
+orderid: 0594
+orderid: 0595
+orderid: 0596
+orderid: 0597
+orderid: 0598
+orderid: 0599
+orderid: 0600
+deal--price:  85.0  quantity:  32  buyorder:0600  sellorder:0508
+orderid: 0601
+orderid: 0602
+orderid: 0603
+deal--price:  40.0  quantity: 192  buyorder:0603  sellorder:0205
+orderid: 0604
+deal--price:  25.0  quantity:  57  sellorder:0604  buyorder:0023
+orderid: 0605
+deal--price:  69.0  quantity: 153  buyorder:0605  sellorder:0207
+orderid: 0606
+deal--price:  39.5  quantity:  17  buyorder:0606  sellorder:0514
+orderid: 0607
+orderid: 0608
+deal--price:  45.5  quantity: 371  buyorder:0608  sellorder:0424
+deal--price:  52.5  quantity: 606  buyorder:0608  sellorder:0516
+orderid: 0609
+orderid: 0610
+orderid: 0611
+orderid: 0612
+orderid: 0613
+orderid: 0614
+orderid: 0615
+orderid: 0616
+orderid: 0617
+deal--price:  62.0  quantity: 294  buyorder:0617  sellorder:0219
+deal--price:  71.5  quantity: 441  buyorder:0617  sellorder:0464
+orderid: 0618
+orderid: 0619
+deal--price:  11.0  quantity: 383  sellorder:0619  buyorder:0038
+orderid: 0620
+orderid: 0621
+deal--price:  53.0  quantity: 551  sellorder:0621  buyorder:0223
+deal--price:  46.5  quantity: 285  sellorder:0621  buyorder:0131
+orderid: 0622
+orderid: 0623
+deal--price:  22.5  quantity:  28  buyorder:0623  sellorder:0531
+orderid: 0624
+deal--price:  30.5  quantity: 474  sellorder:0624  buyorder:0226
+deal--price:  23.5  quantity: 418  sellorder:0624  buyorder:0134
+orderid: 0625
+orderid: 0626
+orderid: 0627
+orderid: 0628
+orderid: 0629
+deal--price:  67.0  quantity: 896  buyorder:0629  sellorder:0292
+deal--price:  70.5  quantity:  13  buyorder:0629  sellorder:0231
+orderid: 0630
+orderid: 0631
+orderid: 0632
+deal--price:  48.0  quantity: 294  buyorder:0632  sellorder:0234
+deal--price:  58.0  quantity: 259  buyorder:0632  sellorder:0479
+orderid: 0633
+deal--price:  62.0  quantity: 103  sellorder:0633  buyorder:0235
+deal--price:  58.5  quantity: 727  sellorder:0633  buyorder:0296
+orderid: 0634
+deal--price:  76.0  quantity: 190  buyorder:0634  sellorder:0450
+deal--price:  79.5  quantity: 116  buyorder:0634  sellorder:0389
+orderid: 0635
+orderid: 0636
+deal--price:  39.5  quantity: 336  sellorder:0636  buyorder:0238
+orderid: 0637
+deal--price:  60.0  quantity: 646  buyorder:0637  sellorder:0545
+orderid: 0638
+orderid: 0639
+orderid: 0640
+deal--price:  37.5  quantity: 703  buyorder:0640  sellorder:0548
+deal--price:  41.0  quantity: 101  buyorder:0640  sellorder:0487
+orderid: 0641
+deal--price:  75.5  quantity: 671  buyorder:0641  sellorder:0304
+orderid: 0642
+orderid: 0643
+orderid: 0644
+deal--price:  57.0  quantity: 340  buyorder:0644  sellorder:0246
+deal--price:  63.0  quantity: 387  buyorder:0644  sellorder:0552
+orderid: 0645
+deal--price:  67.5  quantity: 592  sellorder:0645  buyorder:0308
+orderid: 0646
+deal--price:  95.0  quantity: 214  buyorder:0646  sellorder:0493
+orderid: 0647
+orderid: 0648
+deal--price:  58.0  quantity: 104  sellorder:0648  buyorder:0495
+deal--price:  54.5  quantity: 544  sellorder:0648  buyorder:0556
+orderid: 0649
+deal--price:  69.0  quantity: 641  buyorder:0649  sellorder:0557
+orderid: 0650
+orderid: 0651
+deal--price:  35.0  quantity: 103  sellorder:0651  buyorder:0498
+deal--price:  25.5  quantity: 103  sellorder:0651  buyorder:0253
+deal--price:  15.5  quantity: 499  sellorder:0651  buyorder:0009
+orderid: 0652
+deal--price:  46.0  quantity: 465  buyorder:0652  sellorder:0560
+orderid: 0653
+deal--price:  31.5  quantity: 104  sellorder:0653  buyorder:0163
+deal--price:  28.0  quantity: 561  sellorder:0653  buyorder:0224
+orderid: 0654
+orderid: 0655
+deal--price:  23.5  quantity: 522  buyorder:0655  sellorder:0563
+deal--price:  27.0  quantity: 103  buyorder:0655  sellorder:0502
+orderid: 0656
+orderid: 0657
+deal--price:  70.5  quantity:  86  sellorder:0657  buyorder:0015
+deal--price:  62.5  quantity: 215  sellorder:0657  buyorder:0596
+orderid: 0658
+deal--price:   4.0  quantity: 337  buyorder:0658  sellorder:0505
+orderid: 0659
+orderid: 0660
+deal--price:  53.5  quantity: 474  sellorder:0660  buyorder:0323
+deal--price:  44.0  quantity: 168  sellorder:0660  buyorder:0078
+orderid: 0661
+orderid: 0662
+orderid: 0663
+orderid: 0664
+deal--price:  55.0  quantity: 355  buyorder:0664  sellorder:0572
+orderid: 0665
+deal--price:  21.5  quantity: 427  sellorder:0665  buyorder:0023
+orderid: 0666
+deal--price:  65.0  quantity: 523  buyorder:0666  sellorder:0421
+orderid: 0667
+deal--price:  32.5  quantity: 284  buyorder:0667  sellorder:0575
+orderid: 0668
+orderid: 0669
+deal--price:  49.0  quantity: 268  buyorder:0669  sellorder:0516
+orderid: 0670
+deal--price:   9.5  quantity: 340  buyorder:0670  sellorder:0578
+deal--price:  13.0  quantity: 104  buyorder:0670  sellorder:0517
+orderid: 0671
+deal--price:  72.5  quantity: 532  sellorder:0671  buyorder:0089
+orderid: 0672
+orderid: 0673
+deal--price:  90.0  quantity: 500  buyorder:0673  sellorder:0520
+orderid: 0674
+orderid: 0675
+orderid: 0676
+deal--price:  67.5  quantity: 325  buyorder:0676  sellorder:0523
+orderid: 0677
+deal--price:  30.5  quantity: 327  sellorder:0677  buyorder:0035
+orderid: 0678
+deal--price:  54.5  quantity: 129  buyorder:0678  sellorder:0280
+deal--price:  60.5  quantity: 156  buyorder:0678  sellorder:0586
+orderid: 0679
+deal--price:  41.0  quantity:  72  buyorder:0679  sellorder:0587
+orderid: 0680
+orderid: 0681
+deal--price:  41.5  quantity: 342  buyorder:0681  sellorder:0528
+orderid: 0682
+orderid: 0683
+orderid: 0684
+deal--price:  19.0  quantity: 398  buyorder:0684  sellorder:0531
+orderid: 0685
+deal--price:  49.0  quantity: 262  sellorder:0685  buyorder:0532
+orderid: 0686
+deal--price:  58.5  quantity: 359  sellorder:0686  buyorder:0104
+orderid: 0687
+deal--price:  92.5  quantity: 119  buyorder:0687  sellorder:0595
+orderid: 0688
+orderid: 0689
+orderid: 0690
+deal--price:  69.5  quantity: 176  buyorder:0690  sellorder:0598
+orderid: 0691
+orderid: 0692
+deal--price:  16.5  quantity: 240  sellorder:0692  buyorder:0050
+orderid: 0693
+deal--price:  46.5  quantity: 232  buyorder:0693  sellorder:0601
+deal--price:  50.0  quantity: 104  buyorder:0693  sellorder:0540
+orderid: 0694
+orderid: 0695
+deal--price:  85.5  quantity: 296  sellorder:0695  buyorder:0634
+orderid: 0696
+deal--price:  28.0  quantity: 160  buyorder:0696  sellorder:0543
+orderid: 0697
+orderid: 0698
+deal--price:  46.5  quantity: 121  buyorder:0698  sellorder:0514
+orderid: 0699
+orderid: 0700
+orderid: 0701
+orderid: 0702
+deal--price:  78.5  quantity: 273  buyorder:0702  sellorder:0610
+orderid: 0703
+orderid: 0704
+deal--price:   7.5  quantity: 130  buyorder:0704  sellorder:0612
+deal--price:  11.0  quantity: 104  buyorder:0704  sellorder:0551
+orderid: 0705
+deal--price:  55.5  quantity:  98  buyorder:0705  sellorder:0613
+orderid: 0706
+deal--price:  64.0  quantity: 114  sellorder:0706  buyorder:0308
+deal--price:  54.0  quantity:  80  sellorder:0706  buyorder:0063
+orderid: 0707
+deal--price:  62.0  quantity:  58  buyorder:0707  sellorder:0309
+orderid: 0708
+deal--price:  27.0  quantity: 154  buyorder:0708  sellorder:0310
+orderid: 0709
+deal--price:  47.5  quantity:  19  sellorder:0709  buyorder:0617
+orderid: 0710
+orderid: 0711
+deal--price:  14.0  quantity:  31  buyorder:0711  sellorder:0558
+orderid: 0712
+orderid: 0713
+orderid: 0714
+orderid: 0715
+orderid: 0716
+orderid: 0717
+orderid: 0718
+orderid: 0719
+orderid: 0720
+orderid: 0721
+deal--price:  36.5  quantity:  13  sellorder:0721  buyorder:0139
+orderid: 0722
+deal--price:  74.0  quantity: 403  buyorder:0722  sellorder:0569
+orderid: 0723
+orderid: 0724
+deal--price:  33.5  quantity:  69  sellorder:0724  buyorder:0632
+orderid: 0725
+orderid: 0726
+deal--price:  50.0  quantity:  30  sellorder:0726  buyorder:0573
+orderid: 0727
+orderid: 0728
+deal--price:  25.0  quantity: 550  buyorder:0728  sellorder:0636
+orderid: 0729
+orderid: 0730
+deal--price:  72.0  quantity: 716  sellorder:0730  buyorder:0087
+orderid: 0731
+orderid: 0732
+orderid: 0733
+orderid: 0734
+deal--price:  47.5  quantity: 233  buyorder:0734  sellorder:0091
+deal--price:  57.0  quantity: 587  buyorder:0734  sellorder:0336
+deal--price:  79.5  quantity:  51  buyorder:0734  sellorder:0642
+orderid: 0735
+deal--price:  42.5  quantity: 190  sellorder:0735  buyorder:0153
+orderid: 0736
+orderid: 0737
+orderid: 0738
+deal--price:  55.0  quantity: 474  sellorder:0738  buyorder:0646
+deal--price:  49.0  quantity: 103  sellorder:0738  buyorder:0340
+deal--price:  45.5  quantity: 215  sellorder:0738  buyorder:0401
+orderid: 0739
+deal--price:  69.5  quantity: 784  buyorder:0739  sellorder:0647
+deal--price:  80.5  quantity: 104  buyorder:0739  sellorder:0005
+orderid: 0740
+orderid: 0741
+orderid: 0742
+deal--price:  30.5  quantity: 608  buyorder:0742  sellorder:0650
+deal--price:  34.0  quantity: 104  buyorder:0742  sellorder:0589
+orderid: 0743
+orderid: 0744
+orderid: 0745
+deal--price:  11.5  quantity: 295  buyorder:0745  sellorder:0592
+orderid: 0746
+deal--price:  56.5  quantity: 612  buyorder:0746  sellorder:0103
+deal--price:  62.5  quantity: 253  buyorder:0746  sellorder:0409
+orderid: 0747
+orderid: 0748
+orderid: 0749
+orderid: 0750
+orderid: 0751
+deal--price:  52.5  quantity: 650  buyorder:0751  sellorder:0414
+orderid: 0752
+deal--price:  73.5  quantity: 474  sellorder:0752  buyorder:0507
+deal--price:  54.0  quantity: 272  sellorder:0752  buyorder:0018
+orderid: 0753
+orderid: 0754
+deal--price:  39.5  quantity: 603  buyorder:0754  sellorder:0662
+orderid: 0755
+orderid: 0756
+orderid: 0757
+orderid: 0758
+deal--price:  18.5  quantity: 104  sellorder:0758  buyorder:0268
+deal--price:   8.5  quantity: 429  sellorder:0758  buyorder:0024
+orderid: 0759
+orderid: 0760
+orderid: 0761
+orderid: 0762
+orderid: 0763
+deal--price:  75.0  quantity: 644  buyorder:0763  sellorder:0610
+orderid: 0764
+deal--price:  63.0  quantity: 258  sellorder:0764  buyorder:0030
+orderid: 0765
+orderid: 0766
+deal--price:  48.5  quantity: 365  buyorder:0766  sellorder:0674
+orderid: 0767
+deal--price:  47.0  quantity: 470  sellorder:0767  buyorder:0124
+deal--price:  40.5  quantity:  95  sellorder:0767  buyorder:0033
+orderid: 0768
+deal--price:  74.0  quantity: 526  buyorder:0768  sellorder:0523
+deal--price:  81.0  quantity: 135  buyorder:0768  sellorder:0615
+orderid: 0769
+deal--price:  25.5  quantity:  94  buyorder:0769  sellorder:0677
+orderid: 0770
+deal--price:  44.0  quantity: 161  sellorder:0770  buyorder:0617
+deal--price:  24.0  quantity: 460  sellorder:0770  buyorder:0127
+orderid: 0771
+deal--price:  51.5  quantity: 485  buyorder:0771  sellorder:0526
+orderid: 0772
+deal--price:   6.5  quantity: 492  buyorder:0772  sellorder:0619
+orderid: 0773
+orderid: 0774
+orderid: 0775
+deal--price:  84.0  quantity: 406  buyorder:0775  sellorder:0622
+orderid: 0776
+orderid: 0777
+orderid: 0778
+deal--price:  61.0  quantity: 462  buyorder:0778  sellorder:0625
+orderid: 0779
+deal--price:  55.5  quantity: 103  sellorder:0779  buyorder:0136
+orderid: 0780
+deal--price:  60.5  quantity: 190  buyorder:0780  sellorder:0443
+deal--price:  64.0  quantity: 139  buyorder:0780  sellorder:0382
+deal--price:  86.0  quantity:  94  buyorder:0780  sellorder:0688
+orderid: 0781
+deal--price:  34.5  quantity: 183  buyorder:0781  sellorder:0689
+orderid: 0782
+deal--price:  33.0  quantity: 383  sellorder:0782  buyorder:0139
+orderid: 0783
+deal--price:  63.5  quantity: 376  buyorder:0783  sellorder:0691
+deal--price:  67.0  quantity: 103  buyorder:0783  sellorder:0630
+orderid: 0784
+deal--price:  23.0  quantity: 137  sellorder:0784  buyorder:0050
+orderid: 0785
+orderid: 0786
+orderid: 0787
+orderid: 0788
+orderid: 0789
+orderid: 0790
+orderid: 0791
+deal--price:  61.0  quantity: 321  sellorder:0791  buyorder:0209
+orderid: 0792
+orderid: 0793
+orderid: 0794
+deal--price:  42.0  quantity: 104  sellorder:0794  buyorder:0151
+orderid: 0795
+deal--price:  50.0  quantity: 241  buyorder:0795  sellorder:0397
+orderid: 0796
+orderid: 0797
+deal--price:  19.0  quantity: 202  sellorder:0797  buyorder:0154
+orderid: 0798
+orderid: 0799
+deal--price:   9.5  quantity: 162  sellorder:0799  buyorder:0064
+orderid: 0800
+deal--price:  49.5  quantity: 258  buyorder:0800  sellorder:0310
+orderid: 0801
+orderid: 0802
+orderid: 0803
+orderid: 0804
+orderid: 0805
+orderid: 0806
+orderid: 0807
+deal--price:  81.0  quantity: 132  buyorder:0807  sellorder:0715
+orderid: 0808
+orderid: 0809
+deal--price:  43.0  quantity: 140  buyorder:0809  sellorder:0014
+deal--price:  65.0  quantity:  56  buyorder:0809  sellorder:0319
+orderid: 0810
+deal--price:  36.0  quantity:  60  buyorder:0810  sellorder:0412
+orderid: 0811
+orderid: 0812
+deal--price:  49.0  quantity: 174  buyorder:0812  sellorder:0414
+deal--price:  59.0  quantity:  78  buyorder:0812  sellorder:0659
+orderid: 0813
+orderid: 0814
+orderid: 0815
+deal--price:  32.5  quantity:  77  buyorder:0815  sellorder:0723
+orderid: 0816
+deal--price:  37.5  quantity: 103  sellorder:0816  buyorder:0265
+deal--price:  33.5  quantity:  70  sellorder:0816  buyorder:0326
+orderid: 0817
+orderid: 0818
+orderid: 0819
+orderid: 0820
+orderid: 0821
+deal--price:  80.5  quantity: 570  buyorder:0821  sellorder:0423
+deal--price:  86.5  quantity: 388  buyorder:0821  sellorder:0729
+orderid: 0822
+orderid: 0823
+orderid: 0824
+deal--price:  68.0  quantity:   8  buyorder:0824  sellorder:0671
+orderid: 0825
+deal--price:  72.0  quantity: 110  sellorder:0825  buyorder:0427
+orderid: 0826
+orderid: 0827
+orderid: 0828
+deal--price:  49.5  quantity: 651  sellorder:0828  buyorder:0430
+deal--price:  42.5  quantity: 284  sellorder:0828  buyorder:0338
+orderid: 0829
+orderid: 0830
+orderid: 0831
+deal--price:  17.0  quantity: 474  sellorder:0831  buyorder:0188
+deal--price:  10.5  quantity: 518  sellorder:0831  buyorder:0096
+orderid: 0832
+orderid: 0833
+orderid: 0834
+orderid: 0835
+deal--price:  21.5  quantity: 334  buyorder:0835  sellorder:0590
+deal--price:  28.0  quantity: 438  buyorder:0835  sellorder:0682
+orderid: 0836
+deal--price:  67.0  quantity:   8  buyorder:0836  sellorder:0438
+orderid: 0837
+orderid: 0838
+orderid: 0839
+deal--price:  51.5  quantity: 526  buyorder:0839  sellorder:0114
+orderid: 0840
+orderid: 0841
+deal--price:  65.5  quantity:  94  buyorder:0841  sellorder:0820
+deal--price:  74.0  quantity: 422  buyorder:0841  sellorder:0025
+deal--price:  80.0  quantity: 277  buyorder:0841  sellorder:0330
+orderid: 0842
+deal--price:  28.5  quantity: 517  buyorder:0842  sellorder:0117
+orderid: 0843
+deal--price:  41.0  quantity: 312  sellorder:0843  buyorder:0669
+orderid: 0844
+deal--price:  36.5  quantity: 686  buyorder:0844  sellorder:0517
+deal--price:  42.5  quantity: 150  buyorder:0844  sellorder:0823
+deal--price:  46.5  quantity:  14  buyorder:0844  sellorder:0762
+orderid: 0845
+orderid: 0846
+orderid: 0847
+orderid: 0848
+deal--price:  79.5  quantity: 770  buyorder:0848  sellorder:0184
+orderid: 0849
+orderid: 0850
+orderid: 0851
+orderid: 0852
+orderid: 0853
+deal--price:  68.0  quantity:  86  buyorder:0853  sellorder:0526
+deal--price:  74.5  quantity:  11  buyorder:0853  sellorder:0618
+deal--price:  92.0  quantity:  97  buyorder:0853  sellorder:0281
+orderid: 0854
+orderid: 0855
+deal--price:  24.0  quantity: 706  sellorder:0855  buyorder:0436
+orderid: 0856
+deal--price:  56.0  quantity:  36  buyorder:0856  sellorder:0100
+deal--price:  60.0  quantity: 344  buyorder:0856  sellorder:0040
+deal--price:  66.0  quantity: 464  buyorder:0856  sellorder:0345
+orderid: 0857
+deal--price:  43.5  quantity: 620  sellorder:0857  buyorder:0530
+orderid: 0858
+deal--price:   5.0  quantity: 218  sellorder:0858  buyorder:0378
+deal--price:   1.5  quantity: 586  sellorder:0858  buyorder:0439
+orderid: 0859
+orderid: 0860
+orderid: 0861
+orderid: 0862
+orderid: 0863
+orderid: 0864
+deal--price:  65.5  quantity: 103  sellorder:0864  buyorder:0690
+deal--price:  56.0  quantity:  21  sellorder:0864  buyorder:0445
+orderid: 0865
+orderid: 0866
+orderid: 0867
+orderid: 0868
+orderid: 0869
+deal--price:  59.0  quantity:  92  sellorder:0869  buyorder:0634
+orderid: 0870
+deal--price:  51.0  quantity: 526  buyorder:0870  sellorder:0543
+deal--price:  76.5  quantity:  40  buyorder:0870  sellorder:0788
+orderid: 0871
+deal--price:  34.5  quantity: 257  buyorder:0871  sellorder:0697
+deal--price:  49.0  quantity:   4  buyorder:0871  sellorder:0207
+orderid: 0872
+deal--price:  36.5  quantity: 104  sellorder:0872  buyorder:0637
+deal--price:  26.5  quantity: 172  sellorder:0872  buyorder:0392
+deal--price:  20.0  quantity: 251  sellorder:0872  buyorder:0300
+orderid: 0873
+orderid: 0874
+deal--price:  26.0  quantity:  57  buyorder:0874  sellorder:0210
+orderid: 0875
+orderid: 0876
+deal--price:  31.5  quantity: 273  buyorder:0876  sellorder:0794
+orderid: 0877
+orderid: 0878
+orderid: 0879
+orderid: 0880
+orderid: 0881
+orderid: 0882
+deal--price:  50.0  quantity: 355  buyorder:0882  sellorder:0310
+deal--price:  56.0  quantity:  51  buyorder:0882  sellorder:0616
+deal--price:  59.5  quantity: 154  buyorder:0882  sellorder:0555
+orderid: 0883
+orderid: 0884
+deal--price:  45.5  quantity: 103  sellorder:0884  buyorder:0649
+deal--price:  41.5  quantity: 115  sellorder:0884  buyorder:0710
+deal--price:  35.5  quantity: 124  sellorder:0884  buyorder:0404
+deal--price:  32.0  quantity: 179  sellorder:0884  buyorder:0465
+orderid: 0885
+orderid: 0886
+deal--price:  51.5  quantity: 336  sellorder:0886  buyorder:0559
+deal--price:  48.0  quantity: 145  sellorder:0886  buyorder:0620
+orderid: 0887
+orderid: 0888
+orderid: 0889
+deal--price:  54.5  quantity: 103  sellorder:0889  buyorder:0807
+deal--price:  28.5  quantity: 103  sellorder:0889  buyorder:0562
+orderid: 0890
+orderid: 0891
+orderid: 0892
+orderid: 0893
+orderid: 0894
+deal--price:  65.0  quantity: 322  buyorder:0894  sellorder:0628
+orderid: 0895
+orderid: 0896
+deal--price:  50.5  quantity: 283  sellorder:0896  buyorder:0722
+orderid: 0897
+deal--price:  49.0  quantity: 379  buyorder:0897  sellorder:0723
+orderid: 0898
+orderid: 0899
+deal--price:  31.5  quantity: 208  sellorder:0899  buyorder:0664
+deal--price:  27.5  quantity: 131  sellorder:0899  buyorder:0725
+orderid: 0900
+orderid: 0901
+deal--price:  37.5  quantity: 103  sellorder:0901  buyorder:0574
+deal--price:  34.0  quantity: 197  sellorder:0901  buyorder:0635
+orderid: 0902
+deal--price:  76.0  quantity: 396  buyorder:0902  sellorder:0330
+orderid: 0903
+orderid: 0904
+deal--price:  14.5  quantity: 244  sellorder:0904  buyorder:0577
+orderid: 0905
+deal--price:  44.0  quantity: 220  buyorder:0905  sellorder:0088
+orderid: 0906
+orderid: 0907
+deal--price:  88.5  quantity: 181  sellorder:0907  buyorder:0427
+orderid: 0908
+deal--price:  16.5  quantity: 277  buyorder:0908  sellorder:0826
+orderid: 0909
+deal--price:  58.0  quantity: 141  buyorder:0909  sellorder:0735
+orderid: 0910
+orderid: 0911
+orderid: 0912
+orderid: 0913
+deal--price:  40.0  quantity:  78  sellorder:0913  buyorder:0494
+orderid: 0914
+deal--price:  70.5  quantity: 158  buyorder:0914  sellorder:0832
+orderid: 0915
+deal--price:  30.5  quantity: 254  buyorder:0915  sellorder:0190
+orderid: 0916
+deal--price:  17.0  quantity:  30  sellorder:0916  buyorder:0497
+orderid: 0917
+deal--price:  62.5  quantity:  60  buyorder:0917  sellorder:0345
+orderid: 0918
+deal--price:  26.5  quantity:  78  sellorder:0918  buyorder:0346
+orderid: 0919
+orderid: 0920
+deal--price:  36.0  quantity:  39  buyorder:0920  sellorder:0409
+orderid: 0921
+orderid: 0922
+deal--price:  85.0  quantity: 104  sellorder:0922  buyorder:0687
+deal--price:  81.5  quantity: 127  sellorder:0922  buyorder:0748
+orderid: 0923
+orderid: 0924
+orderid: 0925
+orderid: 0926
+orderid: 0927
+deal--price:  68.5  quantity:  16  sellorder:0927  buyorder:0600
+orderid: 0928
+orderid: 0929
+deal--price:  50.0  quantity: 570  buyorder:0929  sellorder:0755
+deal--price:  53.5  quantity: 200  buyorder:0929  sellorder:0694
+deal--price:  61.0  quantity: 206  buyorder:0929  sellorder:0112
+orderid: 0930
+orderid: 0931
+orderid: 0932
+orderid: 0933
+orderid: 0934
+orderid: 0935
+deal--price:  21.0  quantity:  89  buyorder:0935  sellorder:0843
+orderid: 0936
+orderid: 0937
+orderid: 0938
+orderid: 0939
+orderid: 0940
+orderid: 0941
+deal--price:  77.0  quantity: 703  buyorder:0941  sellorder:0216
+orderid: 0942
+orderid: 0943
+deal--price:  67.0  quantity: 559  buyorder:0943  sellorder:0126
+deal--price:  72.5  quantity: 372  buyorder:0943  sellorder:0851
+orderid: 0944
+orderid: 0945
+deal--price:  51.0  quantity: 593  sellorder:0945  buyorder:0853
+orderid: 0946
+deal--price:  49.5  quantity: 651  buyorder:0946  sellorder:0854
+orderid: 0947
+orderid: 0948
+orderid: 0949
+deal--price:  27.0  quantity:  88  buyorder:0949  sellorder:0857
+orderid: 0950
+orderid: 0951
+orderid: 0952
+orderid: 0953
+orderid: 0954
+orderid: 0955
+deal--price:  61.5  quantity: 491  buyorder:0955  sellorder:0628
+deal--price:  68.0  quantity: 202  buyorder:0955  sellorder:0720
+orderid: 0956
+orderid: 0957
+deal--price:  33.5  quantity: 474  sellorder:0957  buyorder:0538
+orderid: 0958
+deal--price:  41.5  quantity: 206  buyorder:0958  sellorder:0784
+deal--price:  58.5  quantity: 543  buyorder:0958  sellorder:0866
+orderid: 0959
+deal--price:  53.5  quantity: 111  sellorder:0959  buyorder:0632
+orderid: 0960
+orderid: 0961
+deal--price:  35.5  quantity: 610  buyorder:0961  sellorder:0869
+orderid: 0962
+deal--price:  30.5  quantity: 593  sellorder:0962  buyorder:0635
+deal--price:  24.5  quantity:  77  sellorder:0962  buyorder:0329
+orderid: 0963
+orderid: 0964
+orderid: 0965
+deal--price:  34.5  quantity: 100  sellorder:0965  buyorder:0209
+deal--price:  27.5  quantity: 623  sellorder:0965  buyorder:0873
+deal--price:   7.5  quantity:   3  sellorder:0965  buyorder:0638
+orderid: 0966
+orderid: 0967
+deal--price:  73.5  quantity: 281  buyorder:0967  sellorder:0793
+deal--price:  77.0  quantity: 406  buyorder:0967  sellorder:0732
+orderid: 0968
+orderid: 0969
+deal--price:  23.5  quantity: 613  buyorder:0969  sellorder:0397
+orderid: 0970
+deal--price:  54.5  quantity: 636  buyorder:0970  sellorder:0735
+deal--price:  68.5  quantity: 107  buyorder:0970  sellorder:0245
+orderid: 0971
+orderid: 0972
+orderid: 0973
+deal--price:  42.0  quantity: 568  buyorder:0973  sellorder:0309
+orderid: 0974
+orderid: 0975
+orderid: 0976
+orderid: 0977
+deal--price:  36.5  quantity: 385  sellorder:0977  buyorder:0885
+deal--price:  19.5  quantity: 104  sellorder:0977  buyorder:0803
+orderid: 0978
+orderid: 0979
+orderid: 0980
+orderid: 0981
+deal--price:  32.5  quantity: 641  buyorder:0981  sellorder:0409
+orderid: 0982
+deal--price:  53.5  quantity:  48  buyorder:0982  sellorder:0502
+deal--price:  59.5  quantity: 100  buyorder:0982  sellorder:0808
+deal--price:  63.0  quantity: 357  buyorder:0982  sellorder:0747
+orderid: 0983
+orderid: 0984
+deal--price:   9.5  quantity: 466  buyorder:0984  sellorder:0412
+orderid: 0985
+deal--price:  40.5  quantity: 562  buyorder:0985  sellorder:0750
+orderid: 0986
+orderid: 0987
+deal--price:  82.5  quantity: 418  buyorder:0987  sellorder:0895
+deal--price:  87.0  quantity: 104  buyorder:0987  sellorder:0415
+orderid: 0988
+deal--price:  57.0  quantity: 191  sellorder:0988  buyorder:0722
+deal--price:  51.0  quantity: 195  sellorder:0988  buyorder:0416
+orderid: 0989
+deal--price:  32.0  quantity: 103  sellorder:0989  buyorder:0754
+deal--price:  22.5  quantity: 103  sellorder:0989  buyorder:0509
+orderid: 0990
+deal--price:  59.5  quantity: 243  buyorder:0990  sellorder:0898
+deal--price:  64.0  quantity: 336  buyorder:0990  sellorder:0418
+orderid: 0991
+deal--price:  34.5  quantity: 443  sellorder:0991  buyorder:0725
+orderid: 0992
+deal--price:  80.0  quantity:  74  sellorder:0992  buyorder:0573
+deal--price:  70.0  quantity: 412  sellorder:0992  buyorder:0328
+orderid: 0993
+deal--price:  23.5  quantity:  94  buyorder:0993  sellorder:0758
+deal--price:  40.0  quantity: 309  buyorder:0993  sellorder:0840
+orderid: 0994
+orderid: 0995
+deal--price:  47.0  quantity: 364  sellorder:0995  buyorder:0331
+orderid: 0996
+deal--price:  17.5  quantity: 353  buyorder:0996  sellorder:0843
+orderid: 0997
+orderid: 0998
+deal--price:  44.0  quantity:   6  sellorder:0998  buyorder:0824
+deal--price:  34.0  quantity: 414  sellorder:0998  buyorder:0579
+orderid: 0999
+orderid: 1000
+deal--price:  47.5  quantity: 104  sellorder:1000  buyorder:0367
+deleted order:orderid: 0095, stockid:0838, price:   34.0, quantity:  335, b/s: b
+buy orders:
+orderid: 0626, stockid:0949, price:    6.0, quantity:  852, b/s: b
+sell orders:
+orderid: 0779, stockid:0949, price:   44.0, quantity:  456, b/s: s
+orderid: 0289, stockid:0949, price:   73.0, quantity:  665, b/s: s
+orderid: 0861, stockid:0949, price:   78.0, quantity:  629, b/s: s
+orderid: 0953, stockid:0949, price:   91.0, quantity:  732, b/s: s
+orderid: 0534, stockid:0949, price:   93.0, quantity:  749, b/s: s
+deleted order:orderid: 0023, stockid:0714, price:   33.0, quantity:   81, b/s: b
+not found
+buy orders:
+orderid: 0946, stockid:0874, price:   56.0, quantity:  336, b/s: b
+orderid: 0772, stockid:0874, price:   10.0, quantity:   89, b/s: b
+sell orders:
+orderid: 0435, stockid:0874, price:   77.0, quantity:  191, b/s: s
+orderid: 0374, stockid:0874, price:   84.0, quantity:  297, b/s: s
+orderid: 0680, stockid:0874, price:   96.0, quantity:  478, b/s: s
+not found
+buy orders:
+orderid: 0373, stockid:0864, price:    3.0, quantity:  201, b/s: b
+sell orders:
+orderid: 0945, stockid:0864, price:    8.0, quantity:  298, b/s: s
+orderid: 0220, stockid:0864, price:   97.0, quantity:  727, b/s: s
+buy orders:
+orderid: 0428, stockid:0799, price:   42.0, quantity:  690, b/s: b
+orderid: 0847, stockid:0799, price:   40.0, quantity:  906, b/s: b
+orderid: 0122, stockid:0799, price:   29.0, quantity:  104, b/s: b
+orderid: 0183, stockid:0799, price:   22.0, quantity:  112, b/s: b
+orderid: 0765, stockid:0799, price:    7.0, quantity:  604, b/s: b
+sell orders:
+orderid: 1000, stockid:0799, price:   46.0, quantity:  276, b/s: s
+orderid: 0939, stockid:0799, price:   53.0, quantity:   10, b/s: s
+orderid: 0520, stockid:0799, price:   87.0, quantity:  294, b/s: s
+deleted order:orderid: 0078, stockid:0985, price:   52.0, quantity:  750, b/s: b
+buy orders:
+orderid: 0611, stockid:0789, price:   52.0, quantity:   34, b/s: b
+orderid: 0938, stockid:0789, price:    5.0, quantity:  914, b/s: b
+orderid: 0366, stockid:0789, price:    1.0, quantity:  224, b/s: b
+sell orders:
+orderid: 0764, stockid:0789, price:   58.0, quantity:  250, b/s: s
+orderid: 0274, stockid:0789, price:   87.0, quantity:  120, b/s: s
+orderid: 0846, stockid:0789, price:   92.0, quantity:  810, b/s: s
+buy orders:
+orderid: 0871, stockid:0727, price:   58.0, quantity:  401, b/s: b
+orderid: 0932, stockid:0727, price:   51.0, quantity:   33, b/s: b
+orderid: 0544, stockid:0727, price:    5.0, quantity:  550, b/s: b
+sell orders:
+orderid: 0452, stockid:0727, price:   60.0, quantity:  447, b/s: s
+not found
+buy orders:
+orderid: 0451, stockid:0718, price:   11.0, quantity:  180, b/s: b
+sell orders:
+orderid: 0788, stockid:0718, price:   76.0, quantity:  224, b/s: s
+deleted order:orderid: 0084, stockid:0721, price:    6.0, quantity:   31, b/s: b
+not found
+buy orders:
+orderid: 0781, stockid:0969, price:   41.0, quantity:  336, b/s: b
+orderid: 0536, stockid:0969, price:   22.0, quantity:  425, b/s: b
+orderid: 0597, stockid:0969, price:   14.0, quantity:   79, b/s: b
+orderid: 0291, stockid:0969, price:    2.0, quantity:  131, b/s: b
+sell orders:
+orderid: 0199, stockid:0969, price:   57.0, quantity:  294, b/s: s
+orderid: 0863, stockid:0969, price:   75.0, quantity:  589, b/s: s
+not found
+buy orders:
+orderid: 0361, stockid:0737, price:   27.0, quantity:  439, b/s: b
+sell orders:
+orderid: 0514, stockid:0737, price:   33.0, quantity:  689, b/s: s
+orderid: 0759, stockid:0737, price:   52.0, quantity:  723, b/s: s
+orderid: 0208, stockid:0737, price:   88.0, quantity:  733, b/s: s
+orderid: 0933, stockid:0737, price:   99.0, quantity:  129, b/s: s
+buy orders:
+orderid: 0917, stockid:0894, price:   65.0, quantity:  154, b/s: b
+orderid: 0835, stockid:0894, price:   31.0, quantity:  140, b/s: b
+sell orders:
+orderid: 0284, stockid:0894, price:   67.0, quantity:  154, b/s: s
+not found
+buy orders:
+orderid: 0926, stockid:0989, price:   96.0, quantity:  152, b/s: b
+orderid: 0018, stockid:0989, price:   59.0, quantity:  172, b/s: b
+orderid: 0599, stockid:0989, price:   43.0, quantity:   40, b/s: b
+sell orders:
+not found
+not found
+buy orders:
+orderid: 0745, stockid:0913, price:   15.0, quantity:  474, b/s: b
+sell orders:
+orderid: 0837, stockid:0913, price:   60.0, quantity:  873, b/s: s
+orderid: 0347, stockid:0913, price:   89.0, quantity:  391, b/s: s
+orderid: 0919, stockid:0913, price:   93.0, quantity:  175, b/s: s
+deleted order:orderid: 0012, stockid:0923, price:    4.0, quantity:  667, b/s: b
+deleted order:orderid: 0093, stockid:0819, price:   38.0, quantity:  969, b/s: b
+buy orders:
+orderid: 0401, stockid:0838, price:   79.0, quantity:  663, b/s: b
+orderid: 0912, stockid:0838, price:   58.0, quantity:  197, b/s: b
+orderid: 0830, stockid:0838, price:   25.0, quantity:  895, b/s: b
+orderid: 0585, stockid:0838, price:    6.0, quantity:  317, b/s: b
+sell orders:
+deleted order:orderid: 0090, stockid:0786, price:   60.0, quantity:  912, b/s: b
+buy orders:
+orderid: 0410, stockid:0933, price:   10.0, quantity:  815, b/s: b
+sell orders:
+orderid: 0747, stockid:0933, price:   43.0, quantity:  372, b/s: s
+orderid: 0013, stockid:0933, price:   53.0, quantity:  294, b/s: s
+orderid: 0257, stockid:0933, price:   72.0, quantity:  341, b/s: s
+buy orders:
+orderid: 0731, stockid:0763, price:    9.0, quantity:  814, b/s: b
+sell orders:
+orderid: 0088, stockid:0763, price:   32.0, quantity:  393, b/s: s
+orderid: 0394, stockid:0763, price:   44.0, quantity:  133, b/s: s
+orderid: 0966, stockid:0763, price:   48.0, quantity:  591, b/s: s
+orderid: 0333, stockid:0763, price:   51.0, quantity:  530, b/s: s
+orderid: 0639, stockid:0763, price:   96.0, quantity:  711, b/s: s
+not found
+buy orders:
+orderid: 0975, stockid:0858, price:   80.0, quantity:  528, b/s: b
+orderid: 0250, stockid:0858, price:   69.0, quantity:  104, b/s: b
+orderid: 0883, stockid:0858, price:   67.0, quantity:  424, b/s: b
+orderid: 0311, stockid:0858, price:   62.0, quantity:  734, b/s: b
+orderid: 0006, stockid:0858, price:   50.0, quantity:  786, b/s: b
+orderid: 0066, stockid:0858, price:   43.0, quantity:  156, b/s: b
+orderid: 0801, stockid:0858, price:   33.0, quantity:  354, b/s: b
+sell orders:
+deleted order:orderid: 0096, stockid:0851, price:   15.0, quantity:  275, b/s: b
+not found
+buy orders:
+orderid: 0876, stockid:0783, price:   32.0, quantity:  174, b/s: b
+sell orders:
+orderid: 0304, stockid:0783, price:   59.0, quantity:  225, b/s: s
+orderid: 0968, stockid:0783, price:   77.0, quantity:  783, b/s: s
+orderid: 0549, stockid:0783, price:   79.0, quantity:  567, b/s: s
+not found
+buy orders:
+orderid: 0640, stockid:0773, price:   44.0, quantity:    3, b/s: b
+orderid: 0395, stockid:0773, price:   24.0, quantity:  997, b/s: b
+sell orders:
+orderid: 0732, stockid:0773, price:   57.0, quantity:  505, b/s: s
+orderid: 0150, stockid:0773, price:   73.0, quantity:  419, b/s: s
+orderid: 0242, stockid:0773, price:   86.0, quantity:  523, b/s: s
+buy orders:
+orderid: 0900, stockid:0711, price:   50.0, quantity:  435, b/s: b
+orderid: 0818, stockid:0711, price:   16.0, quantity:  133, b/s: b
+sell orders:
+orderid: 0992, stockid:0711, price:   63.0, quantity:   53, b/s: s
+not found
+buy orders:
+orderid: 0868, stockid:0024, price:   81.0, quantity:  606, b/s: b
+orderid: 0296, stockid:0024, price:   76.0, quantity:  189, b/s: b
+orderid: 0052, stockid:0024, price:   57.0, quantity:  338, b/s: b
+orderid: 0786, stockid:0024, price:   47.0, quantity:  304, b/s: b
+orderid: 0480, stockid:0024, price:   35.0, quantity:  355, b/s: b
+orderid: 0541, stockid:0024, price:   28.0, quantity:  726, b/s: b
+sell orders:
+orderid: 0388, stockid:0024, price:   90.0, quantity:   20, b/s: s
+orderid: 0960, stockid:0024, price:   94.0, quantity:  710, b/s: s
+not found
+not found
+buy orders:
+sell orders:
+orderid: 0412, stockid:0953, price:    7.0, quantity:   52, b/s: s
+orderid: 0718, stockid:0953, price:   52.0, quantity:  956, b/s: s
+orderid: 0167, stockid:0953, price:   88.0, quantity:   94, b/s: s
+orderid: 0892, stockid:0953, price:   98.0, quantity:  362, b/s: s
+not found
+deleted order:orderid: 0005, stockid:0848, price:   69.0, quantity:  586, b/s: s
+buy orders:
+orderid: 0803, stockid:0878, price:   30.0, quantity:  211, b/s: b
+orderid: 0711, stockid:0878, price:   17.0, quantity:  948, b/s: b
+sell orders:
+orderid: 0313, stockid:0878, price:   91.0, quantity:  294, b/s: s
+deleted order:orderid: 0033, stockid:0822, price:   45.0, quantity:  272, b/s: b
+buy orders:
+orderid: 0475, stockid:0972, price:   29.0, quantity:  103, b/s: b
+orderid: 0230, stockid:0972, price:    9.0, quantity:  528, b/s: b
+sell orders:
+orderid: 0720, stockid:0972, price:   48.0, quantity:  714, b/s: s
+orderid: 0138, stockid:0972, price:   64.0, quantity:  425, b/s: s
+orderid: 0077, stockid:0972, price:   71.0, quantity:   54, b/s: s
+buy orders:
+sell orders:
+orderid: 0551, stockid:0802, price:    8.0, quantity:  424, b/s: s
+orderid: 0796, stockid:0802, price:   27.0, quantity:  338, b/s: s
+orderid: 0214, stockid:0802, price:   43.0, quantity:  422, b/s: s
+orderid: 0306, stockid:0802, price:   56.0, quantity:  949, b/s: s
+orderid: 0878, stockid:0802, price:   61.0, quantity:  640, b/s: s
+not found
+buy orders:
+orderid: 0131, stockid:0897, price:   61.0, quantity:  162, b/s: b
+orderid: 0713, stockid:0897, price:   46.0, quantity:  171, b/s: b
+orderid: 0774, stockid:0897, price:   38.0, quantity:  542, b/s: b
+orderid: 0468, stockid:0897, price:   26.0, quantity:  361, b/s: b
+orderid: 0529, stockid:0897, price:   19.0, quantity:  732, b/s: b
+sell orders:
+orderid: 0376, stockid:0897, price:   81.0, quantity:  257, b/s: s
+orderid: 0948, stockid:0897, price:   85.0, quantity:  948, b/s: s
+deleted order:orderid: 0007, stockid:0871, price:   98.0, quantity:  650, b/s: s
+not found
+buy orders:
+orderid: 0941, stockid:0822, price:   82.0, quantity:  267, b/s: b
+orderid: 0614, stockid:0822, price:   29.0, quantity:   90, b/s: b
+sell orders:
+orderid: 0522, stockid:0822, price:   84.0, quantity:  755, b/s: s
+orderid: 0461, stockid:0822, price:   91.0, quantity:  384, b/s: s
+not found
+buy orders:
+orderid: 0460, stockid:0812, price:   43.0, quantity:  336, b/s: b
+orderid: 0215, stockid:0812, price:   23.0, quantity:  710, b/s: b
+orderid: 0879, stockid:0812, price:    9.0, quantity:  504, b/s: b
+orderid: 0940, stockid:0812, price:    2.0, quantity:  874, b/s: b
+sell orders:
+orderid: 0613, stockid:0812, price:   49.0, quantity:  896, b/s: s
+orderid: 0123, stockid:0812, price:   78.0, quantity:  606, b/s: s
+orderid: 0062, stockid:0812, price:   85.0, quantity:  236, b/s: s
+buy orders:
+orderid: 0842, stockid:0747, price:   34.0, quantity:  372, b/s: b
+orderid: 0026, stockid:0747, price:   10.0, quantity:  389, b/s: b
+orderid: 0760, stockid:0747, price:    1.0, quantity:  587, b/s: b
+sell orders:
+orderid: 0934, stockid:0747, price:   47.0, quantity:  993, b/s: s
+orderid: 0362, stockid:0747, price:   75.0, quantity:  303, b/s: s
+orderid: 0607, stockid:0747, price:   95.0, quantity:  113, b/s: s
+deleted order:orderid: 0062, stockid:0812, price:   85.0, quantity:  236, b/s: s
+buy orders:
+orderid: 0361, stockid:0737, price:   27.0, quantity:  439, b/s: b
+sell orders:
+orderid: 0514, stockid:0737, price:   33.0, quantity:  689, b/s: s
+orderid: 0759, stockid:0737, price:   52.0, quantity:  723, b/s: s
+orderid: 0208, stockid:0737, price:   88.0, quantity:  733, b/s: s
+orderid: 0933, stockid:0737, price:   99.0, quantity:  129, b/s: s
+buy orders:
+sell orders:
+orderid: 0866, stockid:0002, price:   52.0, quantity:  103, b/s: s
+orderid: 0447, stockid:0002, price:   86.0, quantity:  275, b/s: s
+deleted order:orderid: 0039, stockid:0884, price:   99.0, quantity:  480, b/s: s
+buy orders:
+orderid: 0926, stockid:0989, price:   96.0, quantity:  152, b/s: b
+orderid: 0018, stockid:0989, price:   59.0, quantity:  172, b/s: b
+orderid: 0599, stockid:0989, price:   43.0, quantity:   40, b/s: b
+sell orders:
+not found
+not found
+buy orders:
+orderid: 0950, stockid:0917, price:   14.0, quantity:  908, b/s: b
+orderid: 0439, stockid:0917, price:    2.0, quantity:    2, b/s: b
+sell orders:
+orderid: 0531, stockid:0917, price:   16.0, quantity:  152, b/s: s
+orderid: 0776, stockid:0917, price:   67.0, quantity:  502, b/s: s
+orderid: 0286, stockid:0917, price:   96.0, quantity:  114, b/s: s
+not found
+buy orders:
+orderid: 0264, stockid:0008, price:    7.0, quantity:  214, b/s: b
+sell orders:
+orderid: 0989, stockid:0008, price:   18.0, quantity:  277, b/s: s
+orderid: 0928, stockid:0008, price:   93.0, quantity:  112, b/s: s
+orderid: 0172, stockid:0008, price:   94.0, quantity:  215, b/s: s
+buy orders:
+orderid: 0769, stockid:0842, price:   32.0, quantity:  431, b/s: b
+orderid: 0524, stockid:0842, price:   13.0, quantity:  947, b/s: b
+sell orders:
+orderid: 0851, stockid:0842, price:   66.0, quantity:  455, b/s: s
+orderid: 0432, stockid:0842, price:   99.0, quantity:  611, b/s: s
+not found
+buy orders:
+orderid: 0104, stockid:0936, price:   66.0, quantity:  223, b/s: b
+orderid: 0594, stockid:0936, price:   37.0, quantity:  255, b/s: b
+orderid: 0349, stockid:0936, price:   18.0, quantity:  445, b/s: b
+sell orders:
+orderid: 0196, stockid:0936, price:   80.0, quantity:  971, b/s: s
+orderid: 0921, stockid:0936, price:   90.0, quantity:  135, b/s: s
+orderid: 0860, stockid:0936, price:   97.0, quantity:  764, b/s: s
+not found
+not found
+buy orders:
+orderid: 0679, stockid:0861, price:   48.0, quantity:  309, b/s: b
+orderid: 0740, stockid:0861, price:   41.0, quantity:  752, b/s: b
+sell orders:
+orderid: 0832, stockid:0861, price:   54.0, quantity:  698, b/s: s
+not found
+deleted order:orderid: 0077, stockid:0972, price:   71.0, quantity:   54, b/s: s
+buy orders:
+orderid: 0999, stockid:0786, price:   98.0, quantity:  284, b/s: b
+orderid: 0427, stockid:0786, price:   93.0, quantity:   38, b/s: b
+orderid: 0335, stockid:0786, price:   80.0, quantity:   87, b/s: b
+orderid: 0672, stockid:0786, price:   45.0, quantity:  404, b/s: b
+orderid: 0733, stockid:0786, price:   38.0, quantity:  775, b/s: b
+sell orders:
+deleted order:orderid: 0074, stockid:0943, price:   94.0, quantity:  998, b/s: s
+buy orders:
+orderid: 0405, stockid:0881, price:    4.0, quantity:   30, b/s: b
+sell orders:
+orderid: 0916, stockid:0881, price:   16.0, quantity:   88, b/s: s
+orderid: 0589, stockid:0881, price:   31.0, quantity:  134, b/s: s
+orderid: 0252, stockid:0881, price:   98.0, quantity:  324, b/s: s
+buy orders:
+orderid: 0900, stockid:0711, price:   50.0, quantity:  435, b/s: b
+orderid: 0818, stockid:0711, price:   16.0, quantity:  133, b/s: b
+sell orders:
+orderid: 0992, stockid:0711, price:   63.0, quantity:   53, b/s: s
+not found
+buy orders:
+orderid: 0643, stockid:0806, price:   21.0, quantity:  631, b/s: b
+orderid: 0398, stockid:0806, price:    2.0, quantity:   53, b/s: b
+sell orders:
+orderid: 0245, stockid:0806, price:   63.0, quantity:  240, b/s: s
+deleted order:orderid: 0080, stockid:0005, price:   48.0, quantity:  294, b/s: s
+not found
+buy orders:
+orderid: 0728, stockid:0731, price:   32.0, quantity:  440, b/s: b
+orderid: 0789, stockid:0731, price:   24.0, quantity:  360, b/s: b
+orderid: 0483, stockid:0731, price:   12.0, quantity:  180, b/s: b
+sell orders:
+orderid: 0391, stockid:0731, price:   67.0, quantity:   76, b/s: s
+orderid: 0963, stockid:0731, price:   71.0, quantity:  766, b/s: s
+not found
+buy orders:
+orderid: 0329, stockid:0721, price:   26.0, quantity:  428, b/s: b
+orderid: 0390, stockid:0721, price:   18.0, quantity:  980, b/s: b
+sell orders:
+orderid: 0727, stockid:0721, price:   83.0, quantity:  894, b/s: s
+buy orders:
+orderid: 0813, stockid:0985, price:   42.0, quantity:  116, b/s: b
+sell orders:
+orderid: 0415, stockid:0985, price:   85.0, quantity:  190, b/s: s
+deleted order:orderid: 0034, stockid:0832, price:   93.0, quantity:  463, b/s: s
+buy orders:
+orderid: 0475, stockid:0972, price:   29.0, quantity:  103, b/s: b
+orderid: 0230, stockid:0972, price:    9.0, quantity:  528, b/s: b
+sell orders:
+orderid: 0720, stockid:0972, price:   48.0, quantity:  714, b/s: s
+orderid: 0138, stockid:0972, price:   64.0, quantity:  425, b/s: s
+deleted order:orderid: 0063, stockid:0825, price:   65.0, quantity:   20, b/s: b
+not found
+buy orders:
+orderid: 0652, stockid:0900, price:   53.0, quantity:  104, b/s: b
+orderid: 0407, stockid:0900, price:   33.0, quantity:  991, b/s: b
+orderid: 0979, stockid:0900, price:    6.0, quantity:  681, b/s: b
+sell orders:
+orderid: 0805, stockid:0900, price:   59.0, quantity:  275, b/s: s
+orderid: 0010, stockid:0900, price:   76.0, quantity:  603, b/s: s
+orderid: 0315, stockid:0900, price:   88.0, quantity:  887, b/s: s
+orderid: 0887, stockid:0900, price:   92.0, quantity:  345, b/s: s
+orderid: 0254, stockid:0900, price:   95.0, quantity:  285, b/s: s
+not found
+deleted order:orderid: 0088, stockid:0763, price:   32.0, quantity:  393, b/s: s
+buy orders:
+orderid: 0880, stockid:0825, price:   89.0, quantity:  600, b/s: b
+orderid: 0798, stockid:0825, price:   56.0, quantity:  298, b/s: b
+orderid: 0553, stockid:0825, price:    5.0, quantity:  488, b/s: b
+orderid: 0972, stockid:0825, price:    3.0, quantity:  704, b/s: b
+sell orders:
+orderid: 0400, stockid:0825, price:   98.0, quantity:   14, b/s: s
+deleted order:orderid: 0017, stockid:0976, price:   78.0, quantity:  684, b/s: s
+buy orders:
+orderid: 0317, stockid:0920, price:   17.0, quantity:  140, b/s: b
+sell orders:
+orderid: 0889, stockid:0920, price:   21.0, quantity:  331, b/s: s
+buy orders:
+orderid: 0638, stockid:0750, price:   15.0, quantity:  843, b/s: b
+orderid: 0699, stockid:0750, price:    8.0, quantity:  217, b/s: b
+sell orders:
+orderid: 0301, stockid:0750, price:   82.0, quantity:  490, b/s: s
+not found
+buy orders:
+orderid: 0218, stockid:0845, price:    0.0, quantity:  766, b/s: b
+sell orders:
+orderid: 0555, stockid:0845, price:   33.0, quantity:  294, b/s: s
+orderid: 0065, stockid:0845, price:   62.0, quantity:   60, b/s: s

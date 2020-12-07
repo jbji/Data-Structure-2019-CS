@@ -1,0 +1,29 @@
+abcdefgh=4
+ten=10
+a=18-32
+? a
+b=18/abcdefgh
+? b
+c=18%(b-1)
+? c
+d=ten+(ten+ten)*abcdefgh
+? d
+e=ten-2*ten/abcdefgh
+? e
+f=(18-3)*3
+? f
+ten=ten*(ten)
+? ten
+ten=ten/10
+ten=(ten+2)/(8-ten)
+? ten
+h=(2*3)/(5*2)
+? h
+ten=10
+x=ten-(80-30)/3*3+abcdefgh
+y=(((2+8)*2-(2+abcdefgh)/2)*2-8)*2
+z=(((8+2)*(abcdefgh/2)))
+? x
+? y
+? z
+end

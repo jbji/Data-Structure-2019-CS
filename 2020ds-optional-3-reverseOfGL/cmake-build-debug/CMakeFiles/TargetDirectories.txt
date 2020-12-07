@@ -1,0 +1,3 @@
+/Volumes/Data/Library/Documents/CLionProjects/2020ds-optional-3-reverseOfGL/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Volumes/Data/Library/Documents/CLionProjects/2020ds-optional-3-reverseOfGL/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Volumes/Data/Library/Documents/CLionProjects/2020ds-optional-3-reverseOfGL/cmake-build-debug/CMakeFiles/2020ds_optional_3_reverseOfGL.dir

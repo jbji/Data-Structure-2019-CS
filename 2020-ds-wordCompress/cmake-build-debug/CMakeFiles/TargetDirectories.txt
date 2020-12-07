@@ -1,0 +1,3 @@
+C:/Users/jbji/CLionProjects/2020-ds-wordCompress/cmake-build-debug/CMakeFiles/2020_ds_wordCompress.dir
+C:/Users/jbji/CLionProjects/2020-ds-wordCompress/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jbji/CLionProjects/2020-ds-wordCompress/cmake-build-debug/CMakeFiles/rebuild_cache.dir
